@@ -27,7 +27,7 @@ a:visited {
 }
 
 a.topic-link:active,
-a.topic-link:link {·
+a.topic-link:link {
   color: #333;
   font-size: 18px;
 }
