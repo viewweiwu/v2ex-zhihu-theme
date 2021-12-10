@@ -10,6 +10,8 @@ v2ex 知乎主题
 
 1. 覆盖暗色环境下的马赛克
 
+`@import "https://cdn.jsdelivr.net/gh/viewweiwu/v2ex-zhihu-theme@1.2/v2ex.css";`
+
 ### 1.2
 
 `2021-12-09`
