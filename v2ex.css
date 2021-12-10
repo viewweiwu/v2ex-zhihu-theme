@@ -341,9 +341,9 @@ select,
 }
 
 body #Wrapper.Night {
+  background: none !important;
+  background-image: none !important;
   background-color: #141414 !important;
-  background: unset;
-  background-image: unset;
   --box-border-color: #22303f;
 }
 
