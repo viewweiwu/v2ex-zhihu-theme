@@ -4,13 +4,23 @@ v2ex 知乎主题
 
 ## 更新日志
 
+### 1.4
+
+`2021-12-15`
+
+1. 优化暗色环境下的线条边框颜色
+2. 使用 [v2ex-pro](https://greasyfork.org/zh-CN/scripts/397787-v2ex-pro) 楼中楼插件，缩进优化。
+3. 优化圆角配置
+
+`@import "https://cdn.jsdelivr.net/gh/viewweiwu/v2ex-zhihu-theme@1.4/v2ex.css";`
+
 ### 1.3
 
 `2021-12-10`
 
 1. 覆盖暗色环境下的马赛克
 
-`@import "https://cdn.jsdelivr.net/gh/viewweiwu/v2ex-zhihu-theme@1.2/v2ex.css";`
+`@import "https://cdn.jsdelivr.net/gh/viewweiwu/v2ex-zhihu-theme@1.3/v2ex.css";`
 
 ### 1.2
 

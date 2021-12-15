@@ -95,6 +95,12 @@ body .box {
   line-height: unset !important;
 }
 
+#Main .cell .cell {
+  padding-right: 0;
+  padding-left: 0;
+  padding-bottom: 0;
+}
+
 .count_livid {
   padding: 0 !important;
   margin-right: 0 !important;
@@ -154,11 +160,27 @@ a.top:visited {
   color: var(--link-color);
 }
 
+.cell .cell .cell {
+  margin-left: -58px;
+  width: auto;
+  display: block;
+}
+
+.cell .cell {
+  border-bottom: none;
+}
+
+#Main .no {
+  min-width: 2em;
+  background-color: unset;
+}
+
 #Main .cell,
 .header,
 .subtle,
 .message,
-.note_item {
+.note_item,
+.outdated {
   padding: 16px 24px;
 }
 
@@ -300,6 +322,10 @@ body td.super.button.disable_now {
   background: #f5f5f5 !important;
 }
 
+form .button {
+  border-radius: var(--box-border-radius) !important;
+}
+
 #Bottom {
   border-top: none;
 }
@@ -340,11 +366,15 @@ select,
   border-bottom: none;
 }
 
+.onoffswitch label {
+  border-radius: var(--box-border-radius);
+}
+
 body #Wrapper.Night {
   background: none !important;
   background-image: none !important;
   background-color: #141414 !important;
-  --box-border-color: #22303f;
+  --box-border-color: #2e445b;
 }
 
 .Night a.topic-link:active,
