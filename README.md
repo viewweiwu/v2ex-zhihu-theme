@@ -8,7 +8,7 @@ v2ex 知乎主题
 
 `2022-01-06`
 
-1. 兼容 casnode 展示
+1. 兼容 [casnode](https://forum.casbin.com/) 样式
 
 `@import "https://cdn.jsdelivr.net/gh/viewweiwu/v2ex-zhihu-theme@1.5/v2ex.css";`
 
