@@ -4,6 +4,14 @@ v2ex 知乎主题
 
 ## 更新日志
 
+### 1.5
+
+`2022-01-06`
+
+1. 兼容 casnode 展示
+
+`@import "https://cdn.jsdelivr.net/gh/viewweiwu/v2ex-zhihu-theme@1.5/v2ex.css";`
+
 ### 1.4
 
 `2021-12-15`
