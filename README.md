@@ -11,6 +11,8 @@ v2ex 知乎主题
 1. 兼容 [v2ex-plus](https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo) 样式
 2. 解决图片超出最大宽度
 
+@import "https://cdn.jsdelivr.net/gh/viewweiwu/v2ex-zhihu-theme@1.6/v2ex.css";
+
 ### 1.5
 
 `2022-01-06`
