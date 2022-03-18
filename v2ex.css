@@ -380,6 +380,14 @@ body #search-container:focus-within {
   border-radius: var(--box-border-radius);
 }
 
+.reply_content {
+  white-space: normal !important;
+}
+
+img {
+  max-width: 100%;
+}
+
 body #Wrapper.Night {
   background: none !important;
   background-image: none !important;
@@ -475,15 +483,3 @@ body #Wrapper.Night {
 .Night .CodeMirror-scroll {
   color: #fff;
 }
-
-/* body #Wrapper {
-  background-image: url(https://p.sda1.dev/3/4fb95462b95b2b4afc32087b2a878dfa/bg-4k-light.png) !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
-}
-
-body #Wrapper.Night {
-  background-image: url(https://p.sda1.dev/3/4c32f34a08ac944236ed7546211c8330/bg-4k.png) !important;
-  background-attachment: fixed !important;
-  background-size: cover !important;
-} */

@@ -1,8 +1,16 @@
 v2ex 知乎主题
 
 详见 https://v2ex.com/t/819780
+新版本 https://www.v2ex.com/t/822425
 
 ## 更新日志
+
+### 1.6
+
+`2022-03-18`
+
+1. 兼容 [v2ex-plus] 样式 https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo
+2. 解决图片超出最大宽度
 
 ### 1.5
 
