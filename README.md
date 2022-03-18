@@ -9,7 +9,7 @@ v2ex 知乎主题
 
 `2022-03-18`
 
-1. 兼容 [v2ex-plus] 样式 https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo
+1. 兼容 [v2ex-plus](https://chrome.google.com/webstore/detail/v2ex-plus/daeclijmnojoemooblcbfeeceopnkolo) 样式
 2. 解决图片超出最大宽度
 
 ### 1.5
