@@ -1,7 +1,6 @@
 v2ex 知乎主题
 
-详见 https://v2ex.com/t/819780
-新版本 https://www.v2ex.com/t/822425
+详见： https://www.v2ex.com/t/822425
 
 ## 更新日志
 
