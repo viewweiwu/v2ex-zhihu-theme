@@ -380,7 +380,7 @@ body #search-container:focus-within {
   border-radius: var(--box-border-radius);
 }
 
-.reply_content {
+.cell[id^=r_]>table {
   white-space: normal !important;
 }
 
