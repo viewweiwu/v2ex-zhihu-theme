@@ -99,6 +99,7 @@ body .box {
   padding-right: 0;
   padding-left: 0;
   padding-bottom: 0;
+  white-space: normal !important;
 }
 
 .count_livid {
@@ -378,10 +379,6 @@ body #search-container:focus-within {
 
 .onoffswitch label {
   border-radius: var(--box-border-radius);
-}
-
-.cell[id^=r_]>table {
-  white-space: normal !important;
 }
 
 img {
