@@ -4,6 +4,14 @@ v2ex 知乎主题
 
 ## 更新日志
 
+### 1.6.1
+
+`2022-06-02`
+
+1. 修复评论换行失效问题
+
+@import "https://cdn.jsdelivr.net/gh/viewweiwu/v2ex-zhihu-theme@1.6.1/v2ex.css";
+
 ### 1.6
 
 `2022-03-18`
